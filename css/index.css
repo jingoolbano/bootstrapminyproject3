@@ -1,0 +1,40 @@
+html {
+  font-size: 100%;
+}
+
+body, html {
+  font-family: 'Vazir', sans-serif;
+}
+
+.box-shadow {
+  -webkit-box-shadow: 0 0 0.5rem 0.5rem rgba(68, 71, 255, 0.3);
+          box-shadow: 0 0 0.5rem 0.5rem rgba(68, 71, 255, 0.3);
+}
+
+.container {
+  max-width: 900px;
+}
+
+.subnav p {
+  font-size: 1rem;
+}
+
+label {
+  font-weight: 200;
+  margin-bottom: 0.4rem;
+  margin-top: 0.5rem;
+}
+
+.subject {
+  font-weight: 400;
+}
+
+.subject-details {
+  font-size: 0.9rem;
+}
+
+footer ul a {
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+/*# sourceMappingURL=index.css.map */
